@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|c:\\users\\ssadik\\source\\repos\\martendb\\martendbapi\\controllers\\martendbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|solutionrelative:controllers\\martendbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|c:\\users\\ssadik\\source\\repos\\martendb\\martendbapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|c:\\users\\ssadik\\source\\repos\\martendb\\martendbapi\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|solutionrelative:controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|c:\\users\\ssadik\\source\\repos\\martendb\\martendbapi\\martendbapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|solutionrelative:martendbapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|c:\\users\\ssadik\\source\\repos\\martendb\\martendbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|c:\\users\\ssadik\\source\\repos\\martendb\\martendbapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5252F2E6-01B4-4F34-8BDF-F3A0114A2DA1}|MartenDBApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\Controllers\\Product.cs",
+              "RelativeDocumentMoniker": "Controllers\\Product.cs",
+              "ToolTip": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\Controllers\\Product.cs",
+              "RelativeToolTip": "Controllers\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:59:29.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MartenDBController.cs",
+              "DocumentMoniker": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\Controllers\\MartenDBController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MartenDBController.cs",
+              "ToolTip": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\Controllers\\MartenDBController.cs",
+              "RelativeToolTip": "Controllers\\MartenDBController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:53:39.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MartenDBApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\MartenDBApi.csproj",
+              "RelativeDocumentMoniker": "MartenDBApi.csproj",
+              "ToolTip": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\MartenDBApi.csproj",
+              "RelativeToolTip": "MartenDBApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T12:55:59.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T12:43:20.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T12:43:17.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ssadik\\source\\repos\\MartenDB\\MartenDBApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:42:49.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
